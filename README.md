@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TauhidMark011
+- 👋 Hi, I’m @TauhidMark011 Tauhid forces things living in his head to pay rent. He also tries to mind his business.
 - 👀 I’m interested in web/mobile technology experience in Android native Development in kotlin. Blockchain, PWA.  
 - 🌱 I’m currently learning Flutter, Java springboot.
 - 💞️ I’m looking to collaborate on ...
