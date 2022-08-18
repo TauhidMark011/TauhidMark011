@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TauhidMark011 Tauhid forces things living in his head to pay rent. He also tries to mind his business.
-- 👀 I’m interested in developing mobile technology experience in Android native Development in kotlin. Blockchain, PWA.  
+- 👀 I’m interested in developing mobile technology experience in Android native Development in kotlin. Blockchain, making PWA.  
 - 🌱 I’m currently learning Web3.0,Ethereum blockchain standard Solidity language, Flutter, Java springboot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... catch me on Linkedin, Github, Leetcode, Hackerrank.
