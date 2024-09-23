@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TauhidMark011 Tauhid forces things living in his head to pay rent. He also tries to mind his business.
-- 👀 I’m interested in developing mobile technology experience in Android native Development in kotlin/java.  
+- 👀 I’m interested in developing mobile technology experience in Android Native Development in Kotlin/Java.  
 - 🌱 I’m currently exploring Big Data Technologies(Data Engineering) domain, previously engaged done some informative projects on Web3.0,Ethereum blockchain standard using solidity language.
 - 💞️ I’m looking to collaborate on ... Android, DE Projects
 - 📫 How to reach me ... catch me on Linkedin, Github, CodeKata, Hackerrank.
