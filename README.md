@@ -5,10 +5,12 @@
 🔹 Data Engineering & Big Data Enthusiast | 🔹 Experienced Android Developer | 🔹 Tech Explorer & Problem-Solver
 
 🌱 **Currently Exploring**:
-Building scalable data pipelines for efficient ETL & ELT workflows
-Leveraging Apache Spark, Hadoop, Airflow, SQL and NoSQL databases to process massive datasets
-Exploring Cloud-based solutions (AWS,Azure) for data storage, processing, and analytics
-Strengthening skills in Python, SQL, and distributed computing.
+Building scalable data pipelines for efficient ETL workflows :- 
+Leveraging Apache Spark, Kafka, Airflow, Databricks, Docker, Data Build Tool(DBT), Hadoop(HDFS)/Hive(beeline), Snowflake, Promethus/Grafana MySQL, PostgreSQL and NoSQL(MongoDB) databases to process massive datasets.
+Exploring Cloud-based solutions Microsoft(Azure) for data storage, processing, and analytics.
+Strengthening skills in Python, Pandas, Pyspark, Numpy, SQL, and distributed computing.
+Machine Learning :- Trains machine learning models (Isolation Forest(scikit-learn), Autoencoder with PyTorch/TensorFlow, TensorDataset) | ML Ops.
+Matplotlib, Numpy (exploration & visualization), MLflow. 
 
 📱 **Android Development Expertise**:
 Extensive experience in Native Android Development (Kotlin/Java)
