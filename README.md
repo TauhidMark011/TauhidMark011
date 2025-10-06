@@ -1,5 +1,4 @@
-👋 Hi, I’m Tauhid (@TauhidMark011)
-💭 "Tauhid forces things living in his head to pay rent. He also tries to mind his business."
+👋 Hi, I’m Tauhid, 📊 On a mission to engineer data ecosystems that turn information into intelligence. 🧠 I make data flow, systems scale, and pipelines behave.
 
 🚀 About Me :~
 🔹 Data Engineering & Big Data Enthusiast | 🔹 Experienced Android Developer | 🔹 Tech Explorer & Problem-Solver
