@@ -1,7 +1,7 @@
-👋 Hi, I’m Tauhid, 📊 On a mission to engineer data ecosystems that turn information into intelligence. 🧠 I make data flow, systems scale, and pipelines behave.
+👋 Hi, I’m Tauhid, 📊 On a mission to engineer data ecosystems that turn information into intelligence. I make data flow, systems scale, and pipelines behave.
 
-🚀 About Me :~
-🔹 Data Engineering & Big Data Enthusiast | 🔹 Experienced Android Developer | 🔹 Tech Explorer & Problem-Solver
+🌐 About Me :~
+ Data Engineering & Big Data Enthusiast |  Experienced Android Developer |  Tech Explorer & Problem-Solver
 
 🌱 **Currently Exploring**:
 Building scalable data pipelines for efficient ETL workflows :- 
@@ -25,6 +25,6 @@ Passionate about emerging technologies and their real-world impact.
 Data Engineering solutions (data transformation, analytics, and cloud-based data platforms) 
 Android development projects (performance optimization, architectural improvements, UI/UX enhancements)
 📫 Let’s Connect & Collaborate!
-Reach out on LinkedIn, GitHub, CodeKata, or HackerRank—always excited to discuss innovative ideas, problem-solving approaches, and cutting-edge technologies.
+Reach out on LinkedIn, GitHub, Leetcode or HackerRank—always excited to discuss innovative ideas, problem-solving approaches, and cutting-edge technologies.
 
 🚀 Always Learning. Always Innovating. Always Building.
