@@ -13,10 +13,10 @@ Matplotlib, Numpy (exploration & visualization), MLflow.
 
 📱 **Android Development Expertise**:
 Extensive experience in Native Android Development (Kotlin/Java)
-Strong foundation in MVVM architecture, Jetpack Components, UI/UX optimization, and API integrations
-Passionate about crafting efficient, scalable, and high-performance mobile applications.
+Strong foundation in MVVM architecture, Jetpack Components, UI/UX optimization, and API integrations,
+driven about crafting efficient, scalable, and high-performance mobile applications.
 
-🔍 **Past Experience**:
+**Past Experience**:
 Worked on Web3.0 & Ethereum Blockchain projects, designing and deploying smart contracts using Solidity
 Developed decentralized applications (DApps) and explored blockchain integrations,
 'Passionate about emerging technologies and their real-world impact'.
