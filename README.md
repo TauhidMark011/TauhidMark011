@@ -11,7 +11,7 @@ Strengthening skills in Python, Pandas, Pyspark, Numpy, SQL, and distributed com
 Machine Learning :- Trains machine learning models (Isolation Forest(scikit-learn), Autoencoder with PyTorch/TensorFlow, TensorDataset) | ML Ops.
 Matplotlib, Numpy (exploration & visualization), MLflow. 
 
-📱 **Android Development Expertise**:
+**Android Development Expertise**:
 Extensive experience in Native Android Development (Kotlin/Java)
 Strong foundation in MVVM architecture, Jetpack Components, UI/UX optimization, and API integrations,
 driven about crafting efficient, scalable, and high-performance mobile applications.
