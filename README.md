@@ -1,7 +1,7 @@
 👋 Hi, I’m Tauhid, 📊 On a mission to engineer data ecosystems that turn information into intelligence. I make data flow, systems scale, and pipelines behave.
 
 🌐 About Me :~
- Data Engineering & Big Data Enthusiast |  Experienced Android Developer |  Tech Explorer & Problem-Solver
+ Data Engineering & Big Data Enthusiast | Tech Explorer & Problem-Solver.
 
 🌱 **Currently Exploring**:
 Building scalable data pipelines for efficient ETL workflows :- 
