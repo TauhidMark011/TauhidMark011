@@ -23,7 +23,6 @@ Passionate about emerging technologies and their real-world impact.
 
 💡 **Looking to Collaborate On**:
 Data Engineering solutions (data transformation, analytics, and cloud-based data platforms) 
-Android development projects (performance optimization, architectural improvements, UI/UX enhancements)
 📫 Let’s Connect & Collaborate!
 Reach out on LinkedIn, GitHub, Leetcode or HackerRank—always excited to discuss innovative ideas, problem-solving approaches, and cutting-edge technologies.
 
