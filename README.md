@@ -18,8 +18,8 @@ Passionate about crafting efficient, scalable, and high-performance mobile appli
 
 🔍 **Past Experience**:
 Worked on Web3.0 & Ethereum Blockchain projects, designing and deploying smart contracts using Solidity
-Developed decentralized applications (DApps) and explored blockchain integrations
-Passionate about emerging technologies and their real-world impact.
+Developed decentralized applications (DApps) and explored blockchain integrations,
+'Passionate about emerging technologies and their real-world impact'.
 
 💡 **Looking to Collaborate On**:
 Data Engineering solutions (data transformation, analytics, and cloud-based data platforms) 
