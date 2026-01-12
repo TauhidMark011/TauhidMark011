@@ -11,7 +11,7 @@ Strengthening skills in Python, Pandas, Pyspark, Numpy, SQL, and distributed com
 Machine Learning :- Trains machine learning models (Isolation Forest(scikit-learn), Autoencoder with PyTorch/TensorFlow, TensorDataset) | ML Ops.
 Matplotlib, Numpy (exploration & visualization), MLflow. 
 
-**Past Experience**:- Android Development Expertise: Extensive experience in Native Android Development (Kotlin/Java). Strong foundation in MVVM architecture, Jetpack Components, UI/UX optimization, and API integrations, driven about crafting efficient, scalable, and high-performance mobile applications.
+**Past Experience**:- Android Development expertise: Extensive experience in Native Android Development (Kotlin/Java). Strong foundation in MVVM architecture, Jetpack Components, UI/UX optimization, and API integrations, driven about crafting efficient, scalable, and high-performance mobile applications.
 
 Worked on Web3.0 & Ethereum Blockchain projects in my b.tech final years, designing and deploying smart contracts using Solidity, Developed decentralized applications (DApps) and explored blockchain integrations, 'Passionate about emerging technologies and their real-world impact'.
 
