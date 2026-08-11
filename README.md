@@ -3,7 +3,7 @@
 🌐 About Me :~
  Data Engineering & Big Data Enthusiast | Tech Explorer & Problem-Solver.
 
-🌱 **Currently Exploring**:
+**Currently Exploring**:
 Building scalable data pipelines for efficient ETL workflows :- 
 Leveraging Apache Spark, Kafka, Airflow, Databricks, Docker, Data Build Tool(DBT), Hadoop(HDFS)/Hive(beeline), Snowflake, Promethus/Grafana MySQL, PostgreSQL and NoSQL(MongoDB) databases to process massive datasets.
 Exploring Cloud-based solutions Microsoft(Azure) for data storage, processing, and analytics.
@@ -15,7 +15,7 @@ Matplotlib, Numpy (exploration & visualization), MLflow.
 
 Worked on Web3.0 & Ethereum Blockchain projects in my b.tech final years, designing and deploying smart contracts using Solidity, Developed decentralized applications (DApps) and explored blockchain integrations, 'Passionate about emerging technologies and their real-world impact'.
 
-💡 **Looking to Collaborate On**:
+**Looking to Collaborate On**:
 Data Engineering solutions (data transformation, analytics, and cloud-based data platforms) 
 📫 Let’s Connect & Collaborate!
 Reach out on LinkedIn, GitHub, Leetcode or HackerRank—always excited to discuss innovative ideas, problem-solving approaches, and cutting-edge technologies.
